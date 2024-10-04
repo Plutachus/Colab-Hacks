@@ -1,41 +1,41 @@
 <img src="https://raw.githubusercontent.com/PradyumnaKrishna/PradyumnaKrishna/master/logo.svg" align="right" height="50" width="50"/>
 
 # Colab Hacks [![License: MIT][License-Badge]](LICENSE.md)
-Simple Hacks for Google Colaboratory to boost your productivity and help you to perform daily tasks.
+Hacks sencillos para Google Colaboratory que aumentarán tu productividad y te ayudarán a realizar las tareas diarias.
 
 
 ## [Colab RDP](Colab%20RDP/Colab%20RDP.ipynb) &nbsp;&nbsp; [![Open in Colab][Colab Badge]][RDP Notebook] [![RDP Issues][RDP Issues]](https://github.com/PradyumnaKrishna/Colab-Hacks/issues/labels/Colab%20RDP)
 
-Colab RDP is used to get **Remote Connection** to Google Colaboratory with graphic user interface. It can be used to boost your productivity and you can perform heavy task without any worries.
+Colab RDP se utiliza para obtener **Conexión Remota** a Google Colaboratory con interfaz gráfica de usuario. Puede ser utilizado para aumentar su productividad y puede realizar tareas pesadas sin ninguna preocupación..
 
 <br />
 
 ## [Code Server](Code%20Server/Code%20Server.ipynb) &nbsp;&nbsp; [![Open in Colab][Colab Badge]][Code Notebook] [![Code Issues][Code Issues]](https://github.com/PradyumnaKrishna/Colab-Hacks/issues/labels/Code%Server)
-Code Server is used to launch **VSCode** on browser using Agro Tunnel in Google Colaboratory which gives you better coding experience and you can use it for write code.
+El Servidor de Código se utiliza para ejecutar **VSCode** en el navegador utilizando Agro Tunnel en Google Colaboratory, lo que le proporciona una mejor experiencia de codificación y puede utilizarlo para escribir código..
 
 <br />
 
 ## [Torrent Downloader](Torrent%20Downloader/Torrent%20Downloader.ipynb) &nbsp;&nbsp; [![Open in Colab][Colab Badge]][Torrent Notebook] [![Torrent Issues][Torrent Issues]](https://github.com/PradyumnaKrishna/Colab-Hacks/issues/labels/Torrent%20Downloader)
-Torrent Downloader is **Colab based Torrent Downloader** in which you doesn't need any torrent client only just a google account for downloading and storing downloaded torrents into google drive.
+Torrent Downloader es **Colab basado en Torrent Downloader ** en el que no necesita ningún cliente torrent sólo una cuenta de google para descargar y almacenar los torrentes descargados en google drive.
 
 <br />
 
-### Colab Threatens to Ban, Why?
+### Colab amenaza con prohibir, ¿por qué?
 
-**Recent changes in Colaboratory T&C prohibits the following actions and could result in ban from colab[^1].**
+**Los recientes cambios en las Condiciones Generales de Colaboración prohíben las siguientes acciones y podrían dar lugar a la expulsión de colab[^1].**
 
-- file hosting, media serving, or other web service offerings not related to interactive compute with Colab
-- downloading torrents or engaging in peer-to-peer file-sharing
-- using a remote desktop or SSH
-- connecting to remote proxies
-- mining cryptocurrency
-- running denial-of-service attacks
-- password cracking
-- using multiple accounts to work around access or resource usage restrictions
+- alojamiento de archivos, servicios multimedia u otras ofertas de servicios web no relacionados con la informática interactiva con Colab
+- descargar torrents o compartir archivos entre pares
+- utilizar un escritorio remoto o SSH
+- conexión a proxies remotos
+- minar criptomonedas
+- ejecutar ataques de denegación de servicio
+- descifrar contraseñas
+- utilizar varias cuentas para eludir las restricciones de acceso o de uso de recursos
 
-The changes are made because resources in Colab are prioritized for interactive use cases.
+Los cambios se deben a que en Colab se da prioridad a los recursos para casos de uso interactivo.
 
-This means all the notebooks present in this repository are prohibited and use with your own risk. To discuss, follow up on issue [#91](https://github.com/PradyumnaKrishna/Colab-Hacks/issues/91).
+Esto significa que todos los cuadernos presentes en este repositorio están prohibidos y se utilizan bajo su propia responsabilidad. Para debatir, siga el tema [#91](https://github.com/PradyumnaKrishna/Colab-Hacks/issues/91).
 
 
 ### Support
